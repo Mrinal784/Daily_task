@@ -1,0 +1,26 @@
+Negative Test Case For Pen
+
+
+1. Pen diameter should not be thick or thin.
+2. Pen ball point should work on any type of paper like glossy, matt, rough.
+3. Pen ink should not dry easily.
+4. Pen cap should strong or solid.
+5. Pen refil should be able to fill or replaceble.
+6. If pen is push button type than button should work smoothly.
+7. If pen is gel type than It should not leak or overflow.
+8. Pen rubber should not too much hard.
+9. Pen ink colour should be consistent from beginning till the end.
+10.Pen casing should not easily breakable.
+11.Pen spring should not stiff or rigid.
+12.Pen should able to write in any angle.
+13.Anyone can able to hold pen comfortably.
+14.Pen should not able to make any noise while writing.
+15.Pen material should not be cheap.
+16.Company logo or name must be cleary mension on pen and it should not remove easily.
+17.Text or color written by pen, should not easily removed or erase.
+18.Pen should not have sharp edges or corners.
+19.Pen material should not be made from any toxic-material.
+20.Pen cap should be tight enough so that it will not get removed easily.
+21.Pen tip should not be broken if you apply some pressure.
+22.Pen button should not get stuck easily if pressed for 5-6 times countinusly.
+23.Pen should not tooo bulky of heavy to hold.
