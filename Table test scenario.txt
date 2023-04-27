@@ -1,0 +1,21 @@
+1. Table should not have sharp edge or nails.
+2. Table legs lenghth should be in same level.
+3. Table should be made from water proof material.
+4. Check table under different weather condition.
+5. Check table is foldable or not.
+6. Check the type of the material used in table.
+7. Check the height of table is it suficient or not from the floor.
+8. Check table requirement is fulfilled or not.
+9. Check the table is used for household, office or any outdoor place.
+10.Check the shape of the table, is it round, square or triangle.
+11.Check how many legs are their in table.
+12.Apply pressure at perticular point of table and check the condition of table.
+13.Check how many people can seat with chair on the table.
+14.Check the dimesion of table is proper or according to requirement or not.
+15.Check the thickness of board is enough or not.
+16.Check the material of table is brittle or not.
+17.Check the condition when washed with water or the effect of water on table.
+18.Verify the type and colour of table.
+19.Verify that the table is stable enough to take specified load.
+20.Verify the weight of the table as per specifications.
+
